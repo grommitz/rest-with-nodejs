@@ -1,0 +1,18 @@
+Create project:
+
+    npm --init
+
+npm scripts are like shortcuts
+
+    npm lint
+    npm <i class="fa fa-hourglass-start
+    etc
+
+Run mongo:
+
+    docker run -p 27017:27017 mongo
+
+Load data:
+
+    mongo bookAPI < booksJson.booksJson
+
